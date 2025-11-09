@@ -1,5 +1,6 @@
 # Face Detection using Haar Cascades with OpenCV and Matplotlib
-
+# NAME: TH KARTHIK KRISHNA
+# REG NO: 212223240067
 ## Aim
 
 To write a Python program using OpenCV to perform the following image manipulations:  
@@ -53,3 +54,12 @@ iv) Perform face detection with label in real-time video from webcam.
 - Step 4: Display the video frame with rectangles around detected faces  
 - Step 5: Exit loop and close windows when ESC key (key code 27) is pressed  
 - Step 6: Release video capture and destroy all OpenCV windows  
+
+## Output:
+
+### Face Detection:
+![alt text](output/image.png)
+![alt text](<output/image copy.png>)
+
+### Eye Detection
+![alt text](<output/image copy 2.png>)
