@@ -1,6 +1,6 @@
 # Face Detection using Haar Cascades with OpenCV and Matplotlib
-# Name : Ramya.P
-# Reg no : 212223240137
+# Name : TH KARTHIK KRISHNA
+# Reg no : 212223240067
 
 ## Aim
 
